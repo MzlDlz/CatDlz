@@ -51,7 +51,7 @@ h1 {
 }
 
 .mark-x {
-    background-image: url(TP1//x.svg);
+    background-image: url(TP1/x.svg);
     background-size: 100% 100%;
 }
 .mark-o {
@@ -69,7 +69,8 @@ h1 {
     background-image: url(TP1/line-winner-1.svg);
 }
 .line-winner-2 {
-    background-image: url(TP1/images/
+    background-image: url(TP1/line-winner-2.svg);
+}
 .line-winner-3 {
     background-image: url(TP1/line-winner-1.svg);
     transform: rotate(180deg);
